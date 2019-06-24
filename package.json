@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
     "parse-address": "^1.1.2",
     "usps-webtools": "^1.0.3"
   }
